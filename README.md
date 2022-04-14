@@ -71,7 +71,7 @@ Exemplo utilizando 4 endereços:
 }
 
 ```
-##URL DE EXEMPLO:
+## URL DE EXEMPLO:
 
 https://api-distancia-euclidiana.herokuapp.com/?address1=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280%E2%80%8B030&address2=Av.+Rio+Branco,+1+Centro,+Rio+de+Janeiro+RJ,+20090%E2%80%8B003&address3=Pra%C3%A7a+Mal.+%C3%82ncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021%E2%80%8B200
 
