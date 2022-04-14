@@ -45,11 +45,7 @@ KEY = 'Sua chave google.'
 
 ## Entrada Esperada:
 ```
-url
-?address=Av.+Rio+Branco,+1+Centro,+Rio+de+Janeiro+RJ,20090003
-&address2=Praça+Mal.+Âncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021200
-&address3=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280030
-&address4=Rua+Araguari,+609+Ramos,+Rio+de+Janeiro+RJ,+21031670
+http://localhost:3000/?address1=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030&address2=Av.+Rio+Branco,+1+Centro,+Rio+de+Janeiro+RJ,+20090​003&address3=Praça+Mal.+Âncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021​200
 ```
 
 
@@ -73,7 +69,6 @@ Exemplo utilizando 4 endereços:
 		"dist": 0.12412096764564189
 	}
 }
-```
 
 
 
