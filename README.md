@@ -13,41 +13,6 @@ Consumi a API externa [Geocoding](https://developers.google.com/maps/documentati
 - [Axios](https://www.npmjs.com/package/axios): v0.26.1
 - [CORS](https://www.npmjs.com/package/cors): v2.8.5
 - [Dotenv](https://www.npmjs.com/package/dotenv): v16.0.0
-### Dependencias Dev:
-- [Nodemon](https://www.npmjs.com/package/nodemon): v2.0.15
-
-## Utilização / Instalação via terminal:
-Passo 1 - Clone o repositório:
-```
-git clone 
-```
-
-Passo 2 - Abra a pasta:
-```
-cd api-distancia-eucliana
-```
-
-Passo 3 - Instale os pacotes:
-```
-npm install
-```
-
-Passo 4 - Inicie o servidor:
-```
-npm start
-```
-
-Obs: Para utilizar as ferramentas de desenvolvimento:
-```
-npm run dev
-```
-
-Obs2: Para que a sua aplicação funcione, no arquivo ".env.example" está o template que deve ser utilizado para usar a KEY propria daquele que está baixando essa aplicação, e substituindo ".env.example" para somente ".env".
-```
-KEY = 'Sua chave google.'
-```
-
-```
 
 ## Utilização / Instalação via terminal:
 Passo 1 - Clone o repositório:
@@ -57,7 +22,7 @@ git clone https://github.com/thiagopgc/api-distancia-euclidiana.git
 
 Passo 2 - Abra a pasta:
 ```
-cd api-distancia-euclidiana
+cd api-distancia-eucliana
 ```
 
 Passo 3 - Instale os pacotes:
