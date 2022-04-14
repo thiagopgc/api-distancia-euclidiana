@@ -45,7 +45,7 @@ KEY = 'Sua chave google.'
 
 ## Entrada Esperada:
 ```
-http://localhost:3000/?address1=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030&address2=Av.+Rio+Branco,+1+Centro,+Rio+de+Janeiro+RJ,+20090​003&address3=Praça+Mal.+Âncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021​200
+URL DA API/?address1=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030&address2=Av.+Rio+Branco,+1+Centro,+Rio+de+Janeiro+RJ,+20090​003&address3=Praça+Mal.+Âncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021​200
 ```
 
 
