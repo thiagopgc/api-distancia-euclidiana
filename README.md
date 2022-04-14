@@ -22,7 +22,7 @@ git clone https://github.com/thiagopgc/api-distancia-euclidiana.git
 
 Passo 2 - Abra a pasta:
 ```
-cd api-distancia-eucliana
+cd api-distancia-euclidiana
 ```
 
 Passo 3 - Instale os pacotes:
