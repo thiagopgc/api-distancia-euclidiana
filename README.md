@@ -37,7 +37,7 @@ npm start
 
 ```
 
-Obs2: Para que a sua aplicação funcione, no arquivo ".env.example" está o template que deve ser utilizado para usar a KEY propria daquele que está baixando essa aplicação, e substituindo ".env.example" para somente ".env".
+Obs: Para que a sua aplicação funcione, no arquivo ".env.example" está o template que deve ser utilizado para usar a KEY propria daquele que está baixando essa aplicação, e substituindo ".env.example" para somente ".env".
 ```
 KEY = 'Sua chave google.'
 ```
