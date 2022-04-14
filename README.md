@@ -54,21 +54,23 @@ http://localhost:3000/?address1=Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro
 Exemplo utilizando 4 endereços:
 ```
 {
-	"neaby": {
-		"way": {
-			"start": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brazil",
-			"end": "Praça Mal. Âncora, 122 - Centro, Rio de Janeiro - RJ, 20021-200, Brazil"
+	"proximo": {
+		"path": {
+			"pontoIncial": "Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030",
+			"destino": "Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030"
 		},
-		"dist": 0.011921952761606592
+		"distancia": 1.4142135623730951
 	},
-	"farAway": {
-		"way": {
-			"start": "R. Araguari, 609 - Ramos, Rio de Janeiro - RJ, 21031-670, Brazil",
-			"end": "R. Dezenove de Fevereiro, 34 - Botafogo, Rio de Janeiro - RJ, 22280-030, Brazil"
+	"longe": {
+		"path": {
+			"pontoIncial": "Praça+Mal.+Âncora,+122+Centro,+Rio+de+Janeiro+RJ,+20021​200",
+			"destino": "Rua+19+de+Fevereiro,+34+Botafogo,+Rio+de+Janeiro+RJ,+22280​030"
 		},
-		"dist": 0.12412096764564189
+		"distancia": 1.4143193831948426
 	}
 }
+
+```
 
 
 
